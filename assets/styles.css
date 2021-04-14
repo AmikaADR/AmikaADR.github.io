@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Maiandra GD";
+  src: url(./Maiandra\ GD\ Regular.ttf);
+}
+
+.company-header {
+  background-color: rgb(49, 58, 196);
+  color: white;
+  font-family: "Maiandra GD";
+}
+
+.large-name-amika {
+  font-size: 5rem;
+}
+
+#amika-navbar {
+  text-decoration: underline;
+  background-color: rgb(78, 172, 91);
+  font-family: 'Maiandra Gd';
+}
+
+#amika-navbar .nav-link {
+    color: rgba(255, 255, 255, 0.8);
+}
+#amika-navbar .active .nav-link{
+    color: white;
+}
