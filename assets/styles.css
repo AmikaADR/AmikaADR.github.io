@@ -25,3 +25,7 @@
 #amika-navbar .active .nav-link{
     color: white;
 }
+
+.footer-hidden-text {
+  color: rgb(0 0 0 / 5%);
+}
